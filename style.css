@@ -2,6 +2,10 @@
     width: 150px;
     height: 150px;
 }
+i{
+    font-size: 100px;
+    color: orange;
+}
 #box-1{
     background-color: orange;
 }
